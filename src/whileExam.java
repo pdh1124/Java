@@ -12,6 +12,8 @@ public class whileExam {
 			System.out.println(i+1);
 			i++;
 		}
+		//조건이 맞지 않게 되면 다음 코드로 넘어감
+		
 	}
 
 }
